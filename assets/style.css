@@ -1,0 +1,51 @@
+body {
+  background-color: lightgray;
+}
+
+
+.compare {
+  background-color: white;
+  border: 20px;
+  margin-bottom: 50px;
+}
+
+#table {
+  margin: 40px;
+  background-color: white;
+  padding: 30px;
+}
+
+h1 {
+color: #4aaaa5;
+}
+
+.row {
+background: white;
+margin: auto;
+width: 50%;
+padding: 40px;
+}
+
+#vis {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+background: white;
+}
+
+.col {
+background: white;
+display: block;
+}
+
+.home {
+  padding: 10%;
+  background: white;
+  border-bottom: 1px dotted #eee;
+}
+
+hr {
+margin: 2px;
+border-bottom: dashed 2px #000000;
+}
